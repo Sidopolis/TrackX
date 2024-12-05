@@ -34,7 +34,7 @@
 
 4. **Start the server:**
     ```bash
-    npm start
+    node app.js
     ```
 
 5. **Access the application:**
