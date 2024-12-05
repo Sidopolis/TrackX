@@ -1,5 +1,4 @@
-
-![Uploading Screenshot 2024-12-06 025421.png…]()
+<img width="959" alt="Screenshot 2024-12-06 025421" src="https://github.com/user-attachments/assets/d475f361-7024-44bc-8d7a-c5f2a6f53bbb">
 
 # 🌍 TrackX 🚀
 
