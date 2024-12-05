@@ -1,4 +1,4 @@
-const socket = io();
+const socket = io(window.location.origin);
 const introContainer = document.querySelector('.intro-container');
 const mapContainer = document.getElementById('map');
 const startButton = document.querySelector('.start-button');
